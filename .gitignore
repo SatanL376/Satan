@@ -1,0 +1,13 @@
+# 脚本自动生成的目录（start.sh 会创建）
+accounts/
+ls_data/
+docker-compose.yml
+
+# 用户敏感数据
+accounts.json
+.env
+
+# 不对外发布的文档和素材
+README.md
+README_CN.md
+assets/
